@@ -1,5 +1,5 @@
-# Python-Programs
-Python program to perform various tasks
+# Python-Program
+Python Program to Perform Various Tasks
 
 ## Funtion Tasks
 * Computing Pi
